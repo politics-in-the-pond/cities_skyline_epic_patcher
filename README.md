@@ -6,3 +6,6 @@
 4. RUN!버튼을 눌러 패치를 시작합니다.
 ## How to use this program (English)
 1. Copy the link of Mod or Asset from [Steam Workshop](https://steamcommunity.com/app/255710/workshop/).
+2. Paste the link into the textfield.
+3. Press the radio button to select Mod or Asset.
+4. Press run! button to start patch.
