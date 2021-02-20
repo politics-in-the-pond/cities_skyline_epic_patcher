@@ -15,6 +15,7 @@
 
 ## Script Form
 > Workshop id, Property, Workshop id, Property, Workshop id, Property, Workshop id, Property...
+
 if the workshop file is Asset, Property is A.
 if the workshop file is Mod, Property is M.
 
