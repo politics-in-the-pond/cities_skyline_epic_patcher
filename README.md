@@ -10,3 +10,4 @@
 2. Paste the link into the textfield.
 3. Press the radio button to select Mod or Asset.
 4. Press run! button to start patch.
+5. **Patch is not possible if [http://steamworkshop.download/](http://steamworkshop.download/) does not have an archive file.**
