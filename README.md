@@ -15,3 +15,8 @@
 
 ## Script Form
 > Workshop id, Property, Workshop id, Property, Workshop id, Property, Workshop id, Property...
+if the workshop file is Asset, Property is A.
+if the workshop file is Mod, Property is M.
+
+**example** (Maybe It doesn't work, but as an example, it's appropriate.)
+> 2394732223,A,1234567890,M,7657657650,M,1231233211,A
